@@ -1,4 +1,18 @@
+*{
+	font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
+
 .logo{
     color: black;
     padding: 10px;
 }
+
+.blog{
+	font-size:3em;
+}
+
+.blog:focus, .blog:hover {
+  color: #298DFA;
+  text-decoration: none;
+}
+
